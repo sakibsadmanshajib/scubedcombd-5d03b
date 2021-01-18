@@ -1,11 +1,11 @@
 {
-    "title": "Azimuth",
+    "title": "S Cubed Technology",
     "path_prefix": "/",
-    "base_font": "nunito-sans",
+    "base_font": "fira-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/logo.svg",
-        "logo_img_alt": "Logo",
+        "logo_img": "images/superb-stegosaurus.png",
+        "logo_img_alt": "S Cubed Technology",
         "has_nav": true,
         "nav_links": [
             {
@@ -39,10 +39,10 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
                 "image_url": "/",
-                "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "image_alt": "S Cubed Technology",
+                "content": "S Cubed Technology is a tech innovation company that specializes in service automation and intelligent systems. Our mission is to create simple solutions to complex tasks of life with the help of automation.\n",
+                "title": "S Cubed Technology Ltd"
             },
             {
                 "type": "footer_nav",
@@ -76,7 +76,7 @@
                 "nav_links": [
                     {
                         "label": "Twitter",
-                        "url": "https://twitter.com/",
+                        "url": "https://twitter.com/scubedcombd",
                         "style": "link",
                         "has_icon": true,
                         "icon": "twitter",
@@ -84,7 +84,7 @@
                     },
                     {
                         "label": "LinkedIn",
-                        "url": "https://www.linkedin.com/",
+                        "url": "https://www.linkedin.com/company/scubedcombd",
                         "style": "link",
                         "has_icon": true,
                         "icon": "linkedin",
@@ -92,7 +92,7 @@
                     },
                     {
                         "label": "GitHub",
-                        "url": "https://github.com/",
+                        "url": "https://github.com/scubedcombd",
                         "style": "link",
                         "has_icon": true,
                         "icon": "github",
@@ -131,6 +131,8 @@
                 "style": "link"
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
-    }
+        "content": "&copy; S Cubed Technology Ltd. All rights reserved."
+    },
+    "domain": "https://scubed.com.bd/",
+    "favicon": "images/Scubed Updated Jan 21.png"
 }

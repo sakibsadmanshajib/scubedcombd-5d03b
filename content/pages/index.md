@@ -99,7 +99,10 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: Stackbit Azimuth Theme
-meta_description: The preview of the Azimuth theme
+meta_title: S Cubed Technology
+meta_description: >-
+  S Cubed Technology is a tech innovation company that specializes in service
+  automation and intelligent systems. Our mission is to create simple solutions
+  to complex tasks of life with the help of automation.
 layout: landing
 ---
