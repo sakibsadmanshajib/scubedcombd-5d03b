@@ -42,7 +42,8 @@
                 "image": "images/unique-lime.png",
                 "image_url": "/",
                 "image_alt": "S Cubed Technology",
-                "content": "Stackbit theme demo"
+                "content": "Stackbit theme demo",
+                "title": "S Cubed Technology Ltd"
             },
             {
                 "type": "footer_nav",
